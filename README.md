@@ -1,7 +1,5 @@
-[Latest Release](https://github.com/ohsorry/BlockText/releases)
-![settings1](README/en_settings1.JPG)
 
-
+Original intention: Block some publicity stunt news.
 
 
 
@@ -10,3 +8,5 @@
 ![after](README/en_after.jpg)
 
 😀😀
+
+[Latest Release](https://github.com/ohsorry/BlockText/releases)
