@@ -11,4 +11,4 @@
 
 ###### [Latest Release](https://github.com/ohsorry/BlockText/releases)
 
-###### Original intention: Block some publicity stunt news.
+###### Original intention: Block some news used for publicity stunt.
