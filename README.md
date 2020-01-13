@@ -1,3 +1,5 @@
+![howto](README/en_settings1.JPG)
+
 
 ![before](README/en_before.jpg)
 
